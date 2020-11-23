@@ -86,7 +86,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-gist
-  - jekyll-mentions
   - jekyll-octicons
   - jekyll-toc
   - jekyll-twitter-plugin
